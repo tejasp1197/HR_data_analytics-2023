@@ -1,6 +1,7 @@
 
 
-# Procurement Specialist specializing in the analysis of business data, as well as expertise in the fields of purchasing and supply chain management.
+# Procurement Specialist specializing in the analysis of business data
+## (expertise in the fields of purchasing and supply chain management)
 
 #### Technical Skills: Power-BI, PowerApps, Sharepoint, SQL, MS-Excel
 
